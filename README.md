@@ -14,7 +14,7 @@
  
 <br>
  
-### Estudante de Engenharia da Computação 7° semestre
+### Estudante de Engenharia da Computação 8° semestre
  
 <div> 
   <a href="https://www.youtube.com/@R0D_1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
